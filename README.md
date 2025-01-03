@@ -1,5 +1,5 @@
 # learningJS
-
+just test
 This is a repository of all my JavaScript learning so far, updated whenever I study something new.<br/>
 In this study i'll learn Javascript, Angular, React, Next, Vue, Node, jQuery, Bootstrap, Webpack, Gulp and MySQL.<br/>
 Course link: https://www.udemy.com/course/curso-web/
